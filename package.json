@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Kyendy's portfolio",
+  "homepage": "https://github.com/Kyendy-Mauwi/Kyendy_Portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/Kyendy-Mauwi/Kyendy_Portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyendy-Mauwi/Kyendy_Portfolio.git"
+  },
+  "license": "ISC",
+  "author": "Kyendy Mauwi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
